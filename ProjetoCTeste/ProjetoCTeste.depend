@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1719357968 source:c:\users\mathe\onedrive\햞ea de trabalho\estudo\c\projetocteste\read.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719358029 c:\users\mathe\onedrive\햞ea de trabalho\estudo\c\projetocteste\header.h
+
+1719357968 source:c:\users\mathe\onedrive\햞ea de trabalho\estudo\c\projetocteste\buyproduto.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719357968 source:c:\users\mathe\onedrive\햞ea de trabalho\estudo\c\projetocteste\create.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719357968 source:c:\users\mathe\onedrive\햞ea de trabalho\estudo\c\projetocteste\delete.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719357968 source:c:\users\mathe\onedrive\햞ea de trabalho\estudo\c\projetocteste\update.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719358215 source:c:\users\mathe\onedrive\햞ea de trabalho\estudo\c\projetocteste\main.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
